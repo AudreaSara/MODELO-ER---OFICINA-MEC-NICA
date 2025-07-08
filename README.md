@@ -43,4 +43,4 @@ A oficina recebe veículos de clientes para manutenção ou revisão. Cada veíc
 ---
 
 ## 🔗 Autoria
-Desenvolvido por [Audrea Sara Pimenta de Vasconcelos] como parte do desafio de projeto da DIO.
+Desenvolvido por **Audrea Sara Pimenta de Vasconcelos** como parte do desafio de projeto da DIO.
